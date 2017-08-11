@@ -1,0 +1,5 @@
+# Default Configuration File
+# Permissions:
+# The permissions are based off of the names. I.e. mcc.bold or mcc.darkred or mcc.darkgreen
+# The format and color permissions are simply the names of the selections in gui in lowercase with no spaces
+# mcc.admin gives all admin perms such as /chatcolor

@@ -1,0 +1,11 @@
+main: me.MadChatColors.MadCuzDev.MadChatColors
+name: MadChatColors
+author: MadCuzDev
+version: 1.0
+commands:
+  color:
+   description: Change your chat color
+   usage: /color
+  chatcolor:
+   description: Change value of player's chat
+   usage: /chatcolor (player) (value)
